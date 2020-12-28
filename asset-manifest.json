@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/enterprise-client/static/css/main.139f11a2.chunk.css",
+    "main.js": "/enterprise-client/static/js/main.54b5b005.chunk.js",
+    "main.js.map": "/enterprise-client/static/js/main.54b5b005.chunk.js.map",
+    "runtime-main.js": "/enterprise-client/static/js/runtime-main.b1dc0fcf.js",
+    "runtime-main.js.map": "/enterprise-client/static/js/runtime-main.b1dc0fcf.js.map",
+    "static/css/2.e46108aa.chunk.css": "/enterprise-client/static/css/2.e46108aa.chunk.css",
+    "static/js/2.8eb9259e.chunk.js": "/enterprise-client/static/js/2.8eb9259e.chunk.js",
+    "static/js/2.8eb9259e.chunk.js.map": "/enterprise-client/static/js/2.8eb9259e.chunk.js.map",
+    "index.html": "/enterprise-client/index.html",
+    "static/css/2.e46108aa.chunk.css.map": "/enterprise-client/static/css/2.e46108aa.chunk.css.map",
+    "static/css/main.139f11a2.chunk.css.map": "/enterprise-client/static/css/main.139f11a2.chunk.css.map",
+    "static/js/2.8eb9259e.chunk.js.LICENSE.txt": "/enterprise-client/static/js/2.8eb9259e.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/enterprise-client/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/sig.45513d2a.png": "/enterprise-client/static/media/sig.45513d2a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1dc0fcf.js",
+    "static/css/2.e46108aa.chunk.css",
+    "static/js/2.8eb9259e.chunk.js",
+    "static/css/main.139f11a2.chunk.css",
+    "static/js/main.54b5b005.chunk.js"
+  ]
+}
